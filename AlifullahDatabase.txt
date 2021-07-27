@@ -1,2 +1,4 @@
+
 Create Database Alifullah;
 Create Table RSMH;
+ALTER TABLE RSMH ADD nama varchar(25);
