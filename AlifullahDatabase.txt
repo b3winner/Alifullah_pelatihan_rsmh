@@ -2,3 +2,4 @@
 Create Database Alifullah;
 Create Table RSMH;
 ALTER TABLE RSMH ADD nama varchar(25);
+ALTER TABLE RSMH ADD nama_pacar varchar(25);
